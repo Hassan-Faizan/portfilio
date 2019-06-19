@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
+  font-size: 73px;
+}
+h2 {
+  color: #66bfbf;
+  font-size: 2.3rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999e;
+}
+.cloud1 {
+  width: 12%;
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+.cloud2 {
+  width: 12%;
+  position: absolute;
+  left: 300px;
+}
+.mountain {
+  width: 40%;
+}
+.top-container {
+  padding-top: 140px;
+  background-color: #e4f9f5;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.my-picture {
+  width: 15%;
+  border-radius: 100%;
+  margin: 90px auto 40px auto;
+}
+hr {
+  border-color: #eaf6f6;
+  border-style: dotted;
+  border-width: 10px;
+  border-top: 0;
+  width: 5%;
+  margin: 80px auto;
+}
+.pskill {
+  width: 30%;
+  margin: auto;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  height: 165px;
+}
+a {
+  color: #11999e;
+  line-height: 100px;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.lmargin {
+  margin-bottom: 0;
+  margin-top: 0;
+  color: white;
+}
+.btn {
+  border: 0;
+  padding: 15px 40px;
+  background-color: #66bfbf;
+  color: white;
+}
+.contact-me {
+  line-height: 3;
+}
